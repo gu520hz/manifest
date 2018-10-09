@@ -4,8 +4,7 @@
 	<remote name="test_repo" fetch="https://github.com/gu520hz/test_repo.git"/>
 	<default revision="refs/tags/v1.0" remote="test_repo" sync-j="4"/>
 
-	<project path="test_repo2" name="test_repo2" remote="test_repo"/>
-	<project path="test_repo3" name="test_repo3" remote="test_repo" />
+	
 
 
 </manifest>
