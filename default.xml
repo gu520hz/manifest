@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <manifest>
-	<remote name="test_repo" fetch="https://github.com/gu520hz/test_repo.git"/>
+	<remote name="test_repo" fetch="."/>
 
 	
 
