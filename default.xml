@@ -2,7 +2,6 @@
 
 <manifest>
 	<remote name="test_repo" fetch="https://github.com/gu520hz/test_repo.git"/>
-	<default revision="2e2746be882763c09ef5dc78bccb8d285fe96c55" remote="test_repo" sync-j="4"/>
 
 	
 
